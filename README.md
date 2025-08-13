@@ -3,24 +3,25 @@
 
 # AI Learning Stage
 
-**Proje Amacı:**  
-Bu proje, yapay zekâ öğrenim sürecimi belgelemek ve pratik projelerle AI becerilerimi geliştirmek amacıyla oluşturulmuştur. Türkiye'deki KPSS hazırlık sürecimle paralel ilerleyerek, hem kodlama hem de yapay zekâ alanında kendimi geliştirmeyi hedefliyorum.  
+**Proje Hakkında:**  
+AI Learning Stage, yapay zekâ temelli projeleri keşfetmek ve geliştirmek için oluşturulmuş bir platformdur. Bu proje, farklı AI kavramlarını uygulamalı olarak öğrenmek ve yenilikçi, dikkat çekici projeler geliştirmek amacıyla tasarlanmıştır.  
 
 **Proje Hedefleri:**  
-- Yapay zekâ ile ilgili temel kavramları öğrenmek ve uygulamak  
-- İlgi çekici ve yenilikçi AI projeleri geliştirmek  
-- Kendi GitHub portfolyomu oluşturmak ve düzenli bir şekilde güncellemek  
+- Yapay zekâ projelerini öğrenerek uygulama yeteneği kazanmak  
+- Yenilikçi ve yaratıcı AI çözümleri üretmek  
+- Proje yapısını ve kod organizasyonunu geliştirmek  
+- GitHub üzerinde düzenli ve okunabilir bir portfolyo oluşturmak  
 
-**Kullanım:**  
-1. Python 3.10 veya üstü önerilir  
-2. Projeyi klonlayın: git clone https://github.com/kullaniciadi/ai-learning-stage.git  
-3. Gerekli paketleri yükleyin: pip install -r requirements.txt  
-4. Ana dosyayı çalıştırın: python main.py  
+**Başlangıç:**  
+- Bu proje Python 3.10 veya üstü ile çalışacaktır  
+- Gerekli kütüphaneler ve paketler daha sonra `requirements.txt` ile belirlenecektir  
+- Ana dosya çalıştırıldığında projede bulunan temel fonksiyonlar erişilebilir olacak  
 
-**Gelecek Özellikler:**  
-- AI temelli interaktif projeler  
-- Kullanıcı etkileşimli modeller  
-- Eğitim materyallerine ve örnek uygulamalara bağlantılar  
+**Gelecek Planlar:**  
+- Kullanıcı etkileşimli AI projeleri eklemek  
+- Eğitim materyalleri ve örnek uygulamaları entegre etmek  
+- Projeyi sürekli güncel tutmak ve geliştirmek  
 
 **Lisans:**  
-MIT Lisansı ile lisanslanmıştır.
+MIT Lisansı kullanılmıştır.
+
